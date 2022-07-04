@@ -1,0 +1,23 @@
+ul {
+  list-style: none;
+}
+/* navbar item */
+.NavbarItems {
+    font-weight: 400;
+    background-color: aqua;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .nav-list {
+    border: 1px solid orange;
+    display: flex;
+    gap: 60px;
+    margin-right: 1rem;
+  }
+/* navbar logo */
+  .menuLogo {
+    width: 60px;
+    height: 80px;
+  }
